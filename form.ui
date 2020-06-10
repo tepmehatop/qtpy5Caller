@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>mainTest</class>
+ <widget class="QWidget" name="mainTest">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>841</width>
+    <height>399</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>mainTest</string>
+  </property>
+  <widget class="QPushButton" name="openDoorButton">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>220</y>
+     <width>271</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Открыть замок</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="camButton1">
+   <property name="geometry">
+    <rect>
+     <x>102</x>
+     <y>70</y>
+     <width>271</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Камера 1</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="configButton">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>220</y>
+     <width>271</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Настройки</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="camButton2">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>70</y>
+     <width>271</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Камера 2</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
